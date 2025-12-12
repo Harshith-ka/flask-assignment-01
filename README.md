@@ -37,6 +37,3 @@ Passwords are hashed with bcrypt.
 JWT token includes admin_id and organization and is signed with JWT_SECRET.
 
 Per-organization collections are created in the same master DB with the prefix org_.
-
-whitehathacker8297_db_user
-WIkivABmAbyd7szS
